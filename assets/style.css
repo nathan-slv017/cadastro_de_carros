@@ -20,7 +20,7 @@ body{
 .vaga{
     height: 55px;
     width: 100px;
-    border: 6px solid yellow;
+    border: 6px solid rgb(204, 204, 11);
     border-right: none;
     border-radius: 5px;
     margin: 10px auto;
@@ -36,4 +36,10 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
     margin:0 400px;
     border-radius: 10px;
+}
+.perguntas{
+    width: 700px;
+    height: 600px;
+    background-color: white;
+    
 }
